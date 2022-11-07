@@ -1,6 +1,6 @@
 def main(numbers):
     """
-    A list called numbers is given. Return the items in the odd index.
+    A list called numbers is given. Return the items in the odd position.
     Args:
         numbers(list): parameter
     Returns:
