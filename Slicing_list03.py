@@ -6,4 +6,7 @@ def main(list1):
     Returns:
         list: return answer.
     """
-    return
+    reverse = list1[::-1]
+    return list1.extend(reverse)
+
+print(main([1,2,3,4,5]))
